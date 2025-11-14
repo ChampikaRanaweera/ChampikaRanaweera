@@ -22,7 +22,7 @@
 
 - 👯 I have **11 months of service experience at Axiata Digital Labs Sri Lanka as an Intern software engineer**
 
-- 💬 Ask me about **react, python**
+- 💬 Ask me about **react, python, HTML, CSS, ...**
 
 - 📫 How to reach me **cranaweera96@gmail.com**
 
