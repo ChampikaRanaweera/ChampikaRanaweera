@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Champika Ranaweera <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate full-stack developer || Undergraduate student from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack developer || Graduated student from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it21271250&label=Profile%20views&color=0e75b6&style=flat" alt="it21271250" /> </p>
 
@@ -16,17 +16,19 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🔭 I’m currently learning on **SLIIT - Sri Lanka Institute of Information Technology**
+- 🔭 I Have **BSc (Hons) in Information Technology, Specializing in Information Technology From SLIIT**
   
-- 🌱 I’m currently learning **Java and Arduino**
+- 🌱 I’m currently learning **Arduino**
 
 - 👯 I have **11 months of service experience at Axiata Digital Labs Sri Lanka as an Intern software engineer**
 
-- 💬 Ask me about **react, python, HTML, CSS, ...**
+-  👯 I currently work on **ACE Healthcare (Pvt) Ltd as an Assistant software Developer**
+
+- 💬 Ask me about **React, Python, HTML, CSS, SQL, ...**
 
 - 📫 How to reach me **cranaweera96@gmail.com**
 
-- 👨‍💻 Connect me on **[linkedin.com/in/champika-ranaweera-385752215/](https://www.linkedin.com/in/champika-ranaweera-385752215/)**
+- 👨‍💻 Connect me on **[www.linkedin.com/in/champika-ranaweera-cr9](www.linkedin.com/in/champika-ranaweera-cr9)**
 
 </td>
 <td width="50%" align="center">
