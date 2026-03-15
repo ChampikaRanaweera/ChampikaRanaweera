@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **cranaweera96@gmail.com**
 
-- 👨‍💻 Connect me on **[www.linkedin.com/in/champika-ranaweera-cr9](https://www.linkedin.com/in/champika-ranaweera-cr9)s**
+- 👨‍💻 Connect me on **[www.linkedin.com/in/champika-ranaweera-cr9](https://www.linkedin.com/in/champika-ranaweera-cr9)**
 
 </td>
 <td width="50%" align="center">
@@ -44,8 +44,8 @@
 
 ## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width ="25" alt="Git"/>&nbsp;<b> Git Analytics :</b>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=it21271250&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=it21271250&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChampikaRanaweera&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChampikaRanaweera&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
 ---
