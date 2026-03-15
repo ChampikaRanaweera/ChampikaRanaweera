@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **cranaweera96@gmail.com**
 
-- 👨‍💻 Connect me on **[www.linkedin.com/in/champika-ranaweera-cr9](www.linkedin.com/in/champika-ranaweera-cr9)**
+- 👨‍💻 Connect me on **[www.linkedin.com/in/champika-ranaweera-cr9](https://www.linkedin.com/in/champika-ranaweera-cr9)s**
 
 </td>
 <td width="50%" align="center">
