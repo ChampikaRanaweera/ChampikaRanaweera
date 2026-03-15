@@ -51,7 +51,7 @@
 ---
 ## <p align="center"><img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width ="25"><b> Connect With Me :</b>
 <p align="center">
-<a href="https://linkedin.com/in/champika ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/champika-ranaweera-385752215/ " height="30" width="40" /></a>
+<a href="https://linkedin.com/in/champika ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/champika-ranaweera-cr9/ " height="30" width="40" /></a>
 <a href="https://fb.com/champika ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="[champika ranaweera](https://www.facebook.com/share/DRe2EtyP1Xjri2sN/?mibextid=LQQJ4d)" height="30" width="40" /></a>
 <a href="https://instagram.com/champ_09r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[champ_09r](https://www.instagram.com/champ_09r?igsh=bHptbmpkYXY2MXZn&utm_source=qr)" height="30" width="40" /></a>
 </p>
